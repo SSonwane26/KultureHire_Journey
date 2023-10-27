@@ -60,3 +60,6 @@ In my [Final Presentation](https://www.linkedin.com/events/understandinggen-zwit
 
 ## Acknowledgment
 I am sincerely grateful to KulturHire for providing me with this incredible journey of growth and learning. It has been a labor of love, and I take pride in showcasing the knowledge and experience I've gained during my time here.
+
+> [!NOTE]
+> The stages and milestones provided are based on my personal experiences during the internship period and may evolve or change in the future. Internship programs can vary, and the specific steps and tasks involved may be subject to modification over time.
