@@ -15,7 +15,7 @@ Upon joining KulturHire, our initial step involves gaining an overview of the va
 * [Stage Two](https://github.com/SSonwane26/KultureHire_Journey/blob/main/README.md#the-actual-start)
 * [Stage Three](https://github.com/SSonwane26/KultureHire_Journey/blob/main/README.md#collect-the-date)
 * [Stage Four](https://github.com/SSonwane26/KultureHire_Journey/blob/main/README.md#preprocessing-stage)
-* [Stage Five](https://github.com/SSonwane26/KultureHire_Journey/blob/main/README.md#clets-analyzed-them)
+* [Stage Five](https://github.com/SSonwane26/KultureHire_Journey/blob/main/README.md#lets-analyzed-them)
 * [Stage Six](https://github.com/SSonwane26/KultureHire_Journey/blob/main/README.md#creating-dashboard)
 * [Stage Seven](https://github.com/SSonwane26/KultureHire_Journey/blob/main/README.md#focus-more-on-insights)
 * [Stage Eight](https://github.com/SSonwane26/KultureHire_Journey/blob/main/README.md#tell-the-story)
