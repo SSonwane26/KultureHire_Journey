@@ -11,7 +11,7 @@ Regarding KulturHire, it serves as a practical learning platform aimed at facili
 
 ## About Project
 Upon joining KulturHire, our initial step involves gaining an overview of the various stages scheduled for the upcoming week. This includes understanding the tools and technologies that we will be working with, as well as comprehending the sequential steps necessary to achieve our milestones. In total, there are eight distinct stages, ranging from Stage One to Stage Eight. Let's delve into the specifics of each of these stages.
-* [Stage One](https://github.com/SSonwane26/KultureHire_Journey/edit/main/README.md#warmup-stage)
+* [Stage One](https://github.com/SSonwane26/KultureHire_Journey#warmup-stage)
 * [Stage Two](https://github.com/SSonwane26/KultureHire_Journey/edit/main/README.md#the-actual-start)
 * [Stage Three](https://github.com/SSonwane26/KultureHire_Journey/edit/main/README.md#collect-the-date)
 * [Stage Four](https://github.com/SSonwane26/KultureHire_Journey/edit/main/README.md#preprocessing-stage)
