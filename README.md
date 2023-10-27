@@ -11,14 +11,14 @@ Regarding KulturHire, it serves as a practical learning platform aimed at facili
 
 ## About Project
 Upon joining KulturHire, our initial step involves gaining an overview of the various stages scheduled for the upcoming week. This includes understanding the tools and technologies that we will be working with, as well as comprehending the sequential steps necessary to achieve our milestones. In total, there are eight distinct stages, ranging from Stage One to Stage Eight. Let's delve into the specifics of each of these stages.
-* [Stage One](https://github.com/SSonwane26/KultureHire_Journey#warmup-stage)
-* [Stage Two](https://github.com/SSonwane26/KultureHire_Journey#the-actual-start)
-* [Stage Three](https://github.com/SSonwane26/KultureHire_Journey#collect-the-date)
-* [Stage Four](https://github.com/SSonwane26/KultureHire_Journey#preprocessing-stage)
-* [Stage Five](https://github.com/SSonwane26/KultureHire_Journey#clets-analyzed-them)
-* [Stage Six](https://github.com/SSonwane26/KultureHire_Journey#creating-dashboard)
-* [Stage Seven](https://github.com/SSonwane26/KultureHire_Journey#focus-more-on-insights)
-* [Stage Eight](https://github.com/SSonwane26/KultureHire_Journey#tell-the-story)
+* [Stage One](https://github.com/SSonwane26/KultureHire_Journey/blob/main/README.md#warmup-stage)
+* [Stage Two](https://github.com/SSonwane26/KultureHire_Journey/blob/main/README.md#the-actual-start)
+* [Stage Three](https://github.com/SSonwane26/KultureHire_Journey/blob/main/README.md#collect-the-date)
+* [Stage Four](https://github.com/SSonwane26/KultureHire_Journey/blob/main/README.md#preprocessing-stage)
+* [Stage Five](https://github.com/SSonwane26/KultureHire_Journey/blob/main/README.md#clets-analyzed-them)
+* [Stage Six](https://github.com/SSonwane26/KultureHire_Journey/blob/main/README.md#creating-dashboard)
+* [Stage Seven](https://github.com/SSonwane26/KultureHire_Journey/blob/main/README.md#focus-more-on-insights)
+* [Stage Eight](https://github.com/SSonwane26/KultureHire_Journey/blob/main/README.md#tell-the-story)
 
 ### Warmup Stage
 In this stage, we are introduced to the program's workings and receive some background information about the [Founder](https://www.linkedin.com/in/kadhiravan-jayachandiran/). As a starting point, we are granted free access to an [MS Excel Course](https://www.udemy.com/share/105y9C3@JHRUMVcCP2sJDxSMWvCwkGcKwYdARKXfYxQSy9EE4zoGSv5DOXV-ii2YfhlDRdmDtA==/). Following that, our initial task is to complete our [First Milestone](https://github.com/SSonwane26/KultureHire_Journey/blob/main/Milestones/MileStone_01_Saurabh_Sonwane.xlsx) and submit it for evaluation. 
